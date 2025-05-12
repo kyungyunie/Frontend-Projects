@@ -15,13 +15,13 @@ React Native와 Expo를 활용해 날짜별로 할 일을 관리할 수 있는 T
 
 ## 주요 기능
 
-- ✔ 할 일 추가, 삭제, 완료 체크
-- ✔ 날짜별 할 일 관리 (캘린더 연동)
-- ✔ AsyncStorage를 활용한 로컬 저장 기능
-- ✔ 작업(Work) & 여행(Travel) 모드 선택 기능
-- ✔ 전체 / 진행 중 / 완료 필터링 기능
-- ✔ `KeyboardAvoidingView` 및 `TouchableWithoutFeedback`을 활용한 입력 UX 개선
-- ✔ 할 일이 많아도 스크롤로 확인 가능 (`ScrollView` 적용)
+- 할 일 추가, 삭제, 완료 체크
+- 날짜별 할 일 관리 (캘린더 연동)
+- AsyncStorage를 활용한 로컬 저장 기능
+- 작업(Work) & 여행(Travel) 모드 선택 기능
+- 전체 / 진행 중 / 완료 필터링 기능
+- `KeyboardAvoidingView` 및 `TouchableWithoutFeedback`을 활용한 입력 UX 개선
+- 할 일이 많아도 스크롤로 확인 가능 (`ScrollView` 적용)
 
 ---
 
